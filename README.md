@@ -1,4 +1,4 @@
-# task_03
+# This program illustrate functionality of Grid View and Bottom Naviagtion Bar in Flutter.
 
 A new Flutter project.
 
